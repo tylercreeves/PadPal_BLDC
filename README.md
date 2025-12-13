@@ -1,6 +1,6 @@
 # A Note from the Creator
-Great news hikers! I'm in the process of transitioning all of my projects/products I had sold/planned to sell at Rex-Creations into open source projects for the UL cottage/hiking community to utalize. I'm starting here with the Pad-Pal, since it's the primary product I've sold these past 2 years and has the most users who could benafit from repair guides/part files. 
-As I significantly pull back from making these for the community, my goals/reasoning for making this repository is that it can serve as a resource for:
+Great news hikers! I'm in the process of transitioning all of my projects/products I had sold/planned to sell on my website (([Rex-Creations.com](https://rex-creations.com/))) into open source projects for the UL cottage/hiking community to utalize. I'm starting here with the Pad-Pal, since it's the primary product I've sold these past 2 years and has the most users who could benafit from repair resources and part files being available. 
+As I significantly pull back from making these for the community to focus on my career, my goals/reasoning for making this repository is that it can serve as a resource for:
 *Anyone wanting one but cant obtain one from busy me can utalize this repo to make some for themself and their freinds
 *Anyone with an older Pad-Pal can reference the materials and resources needed to get replacement parts made by service providers (read section BLANK)
   
